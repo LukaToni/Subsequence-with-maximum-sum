@@ -1,0 +1,12 @@
+Write a program that given the numbers in the sequence searches concluded subsequence with maximum sum. 
+
+The program should first read the length of the sequence (up to 1,000,000), then each number. 
+
+Example: The contents of the input 
+
+10 -50 30 -43 29 -21 -31 -33 6 35 -38 
+
+that means it is in the sequence 10 numbers, thos numbers being the line -50, 30, -43, 29, -21, -31, -33, 6, 35, -38. 
+
+The program should display the beginning of the index, the length and the sum sought subsequences. These numbers should
+be separated by spaces and in the end new line.
