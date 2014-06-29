@@ -20,11 +20,6 @@ int main ()
 	for (i = 0; i < length; ++i)
 			scanf ("%d", &tabel[i]); //inset elemetns in table
 
-	//iscemo najdaljse zaporedje 
-	// 10 -50 30 -43 29 -21 -31 -33 6 35 -38
-	// izpis
-	// 7 2 41
-
 	for ( i = 0; i < length; i++) // going through all elemets
 	{
 		//POSITIVE NUMBERS
